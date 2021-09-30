@@ -12,20 +12,17 @@ BaseUtils:基础工具实现类，包含了数据集的读取
 
 main:主函数入口
 
-![Image text](https://raw.githubusercontent.com/FindTheTruth/Machine-learning/main/DecisionTree/png/1.png)
-
-
 数据集介绍如下：
 
 给出四个属性特征，年龄，工作，是否有房子以及信贷情况来决定是否给予贷款。
 
 
+![Image text](https://raw.githubusercontent.com/FindTheTruth/Machine-learning/main/DecisionTree/png/1.png)
 
 
 
 
-
-对应维度信息编码如下：
+对数据集进行维度信息编码如下：
 
        1.年龄：0表示青年，1表示中年，2表示老年；
 
