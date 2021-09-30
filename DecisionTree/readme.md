@@ -2,11 +2,17 @@
 
 相关参数介绍如下：
 DecisionTree类：功能实现类。
+        
         :param prePruning[是否预剪枝]: bool ---> true or false
+        
         :param postPruning[是否后剪枝]: bool ---> true or false
+        
         :param algorithm[采用何种算法]: 'ID3',‘C4.5’,'ClassCART','RegressorCART'
+        
         :param islog[是否打印详细日志] : log detail
+        
         :param RegressorStopLoss[CART回归树停止迭代的阈值]: for CARTRegressor to stop iteration
+        
         
 BaseUtils:基础工具实现类，包含了数据集的读取
 
