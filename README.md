@@ -4,6 +4,8 @@
 
 LP Model -------->感知机模型
 
+SVM --------> 支持向量机模型
+
 DecisionTree ------>决策树模型
 
 wifiStrength -----> KNN模型(摸鱼的圣诞老人)
